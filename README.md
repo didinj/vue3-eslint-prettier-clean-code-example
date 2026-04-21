@@ -1,6 +1,6 @@
 # Set Up ESLint and Prettier in a Vue 3 Project for Clean Code
 
-Read the full tutorial [here]().
+Read the full tutorial [here](https://www.djamware.com/post/set-up-eslint-and-prettier-in-a-vue-3-project-for-clean-code).
 
 This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
